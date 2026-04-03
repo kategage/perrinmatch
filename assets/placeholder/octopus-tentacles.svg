@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- single large curling tentacle -->
+  <path d="M30 16 Q28 30 32 44 Q36 58 46 66 Q56 74 66 72 Q78 70 82 60 Q86 48 78 42 Q70 36 64 44 Q58 52 64 58 Q70 64 74 58"/>
+  <!-- suckers along the tentacle -->
+  <circle cx="30" cy="24" r="2.5" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="31" cy="34" r="2.5" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="34" cy="44" r="2.5" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="40" cy="54" r="2.5" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="48" cy="62" r="2.5" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="56" cy="68" r="2.5" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="66" cy="68" r="2.5" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="76" cy="62" r="2" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="80" cy="52" r="2" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="74" cy="44" r="2" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="66" cy="48" r="1.5" fill="#1a1a1a" opacity="0.15"/>
+  <circle cx="64" cy="56" r="1.5" fill="#1a1a1a" opacity="0.15"/>
+
+  <!-- second smaller tentacle -->
+  <path d="M60 90 Q48 86 42 80 Q36 74 40 68" stroke-width="1.5"/>
+  <!-- suckers on second tentacle -->
+  <circle cx="56" cy="88" r="1.5" fill="#1a1a1a" opacity="0.12"/>
+  <circle cx="48" cy="84" r="1.5" fill="#1a1a1a" opacity="0.12"/>
+  <circle cx="42" cy="78" r="1.5" fill="#1a1a1a" opacity="0.12"/>
+
+  <!-- third tentacle tip -->
+  <path d="M85 90 Q92 82 94 72 Q96 62 90 58" stroke-width="1.5"/>
+  <circle cx="88" cy="86" r="1.5" fill="#1a1a1a" opacity="0.12"/>
+  <circle cx="92" cy="78" r="1.5" fill="#1a1a1a" opacity="0.12"/>
+  <circle cx="94" cy="68" r="1.5" fill="#1a1a1a" opacity="0.12"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- head/mantle -->
+  <path d="M35 50 Q35 20 60 18 Q85 20 85 50"/>
+  <!-- face area -->
+  <path d="M35 50 Q35 62 60 62 Q85 62 85 50"/>
+  <!-- eyes -->
+  <circle cx="48" cy="42" r="5"/>
+  <circle cx="72" cy="42" r="5"/>
+  <circle cx="48" cy="42" r="2.5" fill="#1a1a1a" stroke="none"/>
+  <circle cx="72" cy="42" r="2.5" fill="#1a1a1a" stroke="none"/>
+  <!-- tentacles -->
+  <path d="M38 60 Q28 72 22 82 Q18 90 24 94"/>
+  <path d="M44 62 Q38 76 32 86 Q28 94 34 96"/>
+  <path d="M52 62 Q48 78 44 90 Q42 98 48 100"/>
+  <path d="M60 62 Q60 80 58 92 Q58 100 62 100"/>
+  <path d="M68 62 Q72 78 76 90 Q78 98 72 100"/>
+  <path d="M76 62 Q82 76 88 86 Q92 94 86 96"/>
+  <path d="M82 60 Q92 72 98 82 Q102 90 96 94"/>
+  <!-- suckers on a couple tentacles -->
+  <circle cx="30" cy="76" r="1.5" opacity="0.4"/>
+  <circle cx="26" cy="84" r="1.5" opacity="0.4"/>
+  <circle cx="90" cy="76" r="1.5" opacity="0.4"/>
+  <circle cx="94" cy="84" r="1.5" opacity="0.4"/>
+  <circle cx="60" cy="76" r="1.5" opacity="0.4"/>
+  <circle cx="60" cy="86" r="1.5" opacity="0.4"/>
+</svg>

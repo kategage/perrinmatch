@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- left wing membrane -->
+  <path d="M58 60 Q35 45 14 30 Q18 50 16 68 Q28 60 40 62 Q48 64 58 65"/>
+  <!-- right wing membrane -->
+  <path d="M62 60 Q85 45 106 30 Q102 50 104 68 Q92 60 80 62 Q72 64 62 65"/>
+  <!-- wing bone structure left -->
+  <path d="M58 60 L34 42"/>
+  <path d="M58 62 L28 54"/>
+  <path d="M58 64 L24 62"/>
+  <path d="M14 30 Q22 38 30 46"/>
+  <!-- wing bone structure right -->
+  <path d="M62 60 L86 42"/>
+  <path d="M62 62 L92 54"/>
+  <path d="M62 64 L96 62"/>
+  <path d="M106 30 Q98 38 90 46"/>
+  <!-- membrane texture -->
+  <path d="M24 48 Q30 52 36 54" opacity="0.4"/>
+  <path d="M96 48 Q90 52 84 54" opacity="0.4"/>
+  <path d="M20 58 Q28 58 34 58" opacity="0.4"/>
+  <path d="M100 58 Q92 58 86 58" opacity="0.4"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- body -->
+  <ellipse cx="55" cy="58" rx="28" ry="18"/>
+  <!-- head -->
+  <path d="M80 50 Q95 42 100 48 Q102 54 96 58 Q90 62 80 60"/>
+  <!-- casque/crest -->
+  <path d="M82 50 Q86 38 80 36 Q76 38 78 46"/>
+  <!-- eye -->
+  <circle cx="90" cy="52" r="5"/>
+  <circle cx="90" cy="52" r="2.5" fill="#1a1a1a" stroke="none"/>
+  <!-- curled tail -->
+  <path d="M28 56 Q18 56 14 62 Q10 70 16 74 Q22 78 26 72 Q28 68 24 66"/>
+  <!-- front legs -->
+  <path d="M68 74 L72 86 L68 90"/>
+  <path d="M68 90 L66 92 M68 90 L70 92"/>
+  <path d="M58 74 L54 86 L58 90"/>
+  <path d="M58 90 L56 92 M58 90 L60 92"/>
+  <!-- back legs -->
+  <path d="M42 74 L38 86 L42 90"/>
+  <path d="M42 90 L40 92 M42 90 L44 92"/>
+  <!-- branch it's sitting on -->
+  <path d="M10 92 L110 92" stroke-width="3" opacity="0.3"/>
+  <!-- body texture -->
+  <path d="M45 52 Q50 48 55 52" opacity="0.3"/>
+  <path d="M55 52 Q60 48 65 52" opacity="0.3"/>
+  <path d="M50 62 Q55 58 60 62" opacity="0.3"/>
+  <path d="M60 62 Q65 58 70 62" opacity="0.3"/>
+</svg>

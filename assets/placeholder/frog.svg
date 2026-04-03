@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- body -->
+  <ellipse cx="60" cy="65" rx="25" ry="18"/>
+  <!-- head -->
+  <ellipse cx="60" cy="44" rx="20" ry="14"/>
+  <!-- eye bumps -->
+  <circle cx="46" cy="34" r="7"/>
+  <circle cx="74" cy="34" r="7"/>
+  <!-- pupils -->
+  <ellipse cx="46" cy="34" rx="2.5" ry="4" fill="#1a1a1a" stroke="none"/>
+  <ellipse cx="74" cy="34" rx="2.5" ry="4" fill="#1a1a1a" stroke="none"/>
+  <!-- mouth -->
+  <path d="M40 50 Q50 56 60 50 Q70 56 80 50"/>
+  <!-- nostril dots -->
+  <circle cx="52" cy="42" r="1" fill="#1a1a1a" stroke="none"/>
+  <circle cx="68" cy="42" r="1" fill="#1a1a1a" stroke="none"/>
+  <!-- front legs -->
+  <path d="M38 60 L24 68 L20 72"/>
+  <path d="M20 72 L16 70 M20 72 L18 75 M20 72 L22 76"/>
+  <path d="M82 60 L96 68 L100 72"/>
+  <path d="M100 72 L104 70 M100 72 L102 75 M100 72 L98 76"/>
+  <!-- back legs -->
+  <path d="M42 78 Q30 88 28 96 Q26 100 32 102"/>
+  <path d="M32 102 L28 104 M32 102 L32 106 M32 102 L36 104"/>
+  <path d="M78 78 Q90 88 92 96 Q94 100 88 102"/>
+  <path d="M88 102 L92 104 M88 102 L88 106 M88 102 L84 104"/>
+  <!-- spots on back -->
+  <circle cx="52" cy="60" r="3" opacity="0.2" fill="#1a1a1a" stroke="none"/>
+  <circle cx="68" cy="62" r="2.5" opacity="0.2" fill="#1a1a1a" stroke="none"/>
+  <circle cx="58" cy="72" r="2" opacity="0.2" fill="#1a1a1a" stroke="none"/>
+</svg>

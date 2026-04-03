@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- tongue extending from left to right, curling -->
+  <!-- base/thick part -->
+  <path d="M14 58 Q30 56 46 52 Q62 48 78 42 Q94 36 106 32" stroke-width="3"/>
+  <!-- sticky pad at tip -->
+  <ellipse cx="108" cy="31" rx="6" ry="4" fill="#1a1a1a" opacity="0.12" stroke-width="1.5"/>
+  <ellipse cx="108" cy="31" rx="6" ry="4" stroke-width="1.5"/>
+  <!-- tongue texture/ridges -->
+  <path d="M24 58 Q26 54 30 56" opacity="0.4"/>
+  <path d="M40 54 Q42 50 46 52" opacity="0.4"/>
+  <path d="M56 50 Q58 46 62 48" opacity="0.4"/>
+  <path d="M72 44 Q74 40 78 42" opacity="0.4"/>
+  <path d="M88 38 Q90 34 94 36" opacity="0.4"/>
+  <!-- motion lines -->
+  <path d="M14 52 L8 50" opacity="0.3"/>
+  <path d="M14 64 L8 66" opacity="0.3"/>
+  <path d="M18 48 L12 44" opacity="0.3"/>
+  <path d="M18 68 L12 72" opacity="0.3"/>
+  <!-- small fly near the tip -->
+  <circle cx="104" cy="22" r="2" fill="#1a1a1a" opacity="0.4"/>
+  <path d="M102 20 L98 16" opacity="0.4" stroke-width="1"/>
+  <path d="M106 20 L110 16" opacity="0.4" stroke-width="1"/>
+  <!-- chameleon mouth hint on the left -->
+  <path d="M14 54 Q10 58 14 62" stroke-width="2.5"/>
+</svg>

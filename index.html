@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Poking the Squid - Match Game</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800&family=Nunito+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1 class="title">Poking the Squid</h1>
+      <p class="subtitle">Match the animal to its part</p>
+    </header>
+
+    <div class="stats-bar">
+      <div class="stat">
+        <span class="stat-label">Moves</span>
+        <span class="stat-value" id="move-counter">0</span>
+      </div>
+      <div class="stat">
+        <span class="stat-label">Time</span>
+        <span class="stat-value" id="timer">0:00</span>
+      </div>
+    </div>
+
+    <div class="game-board" id="game-board"></div>
+
+    <footer class="footer">
+      <button class="btn-new-game" id="btn-new-game">New Game</button>
+    </footer>
+  </div>
+
+  <div class="victory-overlay" id="victory-overlay">
+    <div class="victory-content">
+      <h2 class="victory-title">You did it!</h2>
+      <p class="victory-stats" id="victory-stats"></p>
+      <p class="victory-fact" id="victory-fact"></p>
+      <div class="victory-actions">
+        <button class="btn-play-again" id="btn-play-again">Play Again</button>
+        <a href="https://www.experrinment.com/books" target="_blank" rel="noopener" class="btn-get-book">Get the Book</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="cards-data.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>

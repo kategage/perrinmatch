@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- scale pattern - overlapping rows -->
+  <!-- row 1 -->
+  <path d="M20 25 Q30 15 40 25"/>
+  <path d="M40 25 Q50 15 60 25"/>
+  <path d="M60 25 Q70 15 80 25"/>
+  <path d="M80 25 Q90 15 100 25"/>
+  <!-- row 2 offset -->
+  <path d="M10 40 Q20 30 30 40"/>
+  <path d="M30 40 Q40 30 50 40"/>
+  <path d="M50 40 Q60 30 70 40"/>
+  <path d="M70 40 Q80 30 90 40"/>
+  <path d="M90 40 Q100 30 110 40"/>
+  <!-- row 3 -->
+  <path d="M20 55 Q30 45 40 55"/>
+  <path d="M40 55 Q50 45 60 55"/>
+  <path d="M60 55 Q70 45 80 55"/>
+  <path d="M80 55 Q90 45 100 55"/>
+  <!-- row 4 offset -->
+  <path d="M10 70 Q20 60 30 70"/>
+  <path d="M30 70 Q40 60 50 70"/>
+  <path d="M50 70 Q60 60 70 70"/>
+  <path d="M70 70 Q80 60 90 70"/>
+  <path d="M90 70 Q100 60 110 70"/>
+  <!-- row 5 -->
+  <path d="M20 85 Q30 75 40 85"/>
+  <path d="M40 85 Q50 75 60 85"/>
+  <path d="M60 85 Q70 75 80 85"/>
+  <path d="M80 85 Q90 75 100 85"/>
+  <!-- row 6 offset -->
+  <path d="M10 100 Q20 90 30 100"/>
+  <path d="M30 100 Q40 90 50 100"/>
+  <path d="M50 100 Q60 90 70 100"/>
+  <path d="M70 100 Q80 90 90 100"/>
+  <path d="M90 100 Q100 90 110 100"/>
+  <!-- diamond accents -->
+  <path d="M50 32 L53 35 L50 38 L47 35 Z" fill="#1a1a1a" opacity="0.15"/>
+  <path d="M70 62 L73 65 L70 68 L67 65 Z" fill="#1a1a1a" opacity="0.15"/>
+  <path d="M40 77 L43 80 L40 83 L37 80 Z" fill="#1a1a1a" opacity="0.15"/>
+  <path d="M80 47 L83 50 L80 53 L77 50 Z" fill="#1a1a1a" opacity="0.15"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- body -->
+  <ellipse cx="60" cy="70" rx="22" ry="28"/>
+  <!-- head -->
+  <circle cx="60" cy="38" r="18"/>
+  <!-- ear tufts -->
+  <path d="M46 24 L40 10 L50 22"/>
+  <path d="M74 24 L80 10 L70 22"/>
+  <!-- facial disc left -->
+  <circle cx="52" cy="38" r="9"/>
+  <!-- facial disc right -->
+  <circle cx="68" cy="38" r="9"/>
+  <!-- eyes -->
+  <circle cx="52" cy="38" r="4.5"/>
+  <circle cx="68" cy="38" r="4.5"/>
+  <circle cx="52" cy="38" r="2" fill="#1a1a1a" stroke="none"/>
+  <circle cx="68" cy="38" r="2" fill="#1a1a1a" stroke="none"/>
+  <!-- beak -->
+  <path d="M57 44 L60 50 L63 44"/>
+  <!-- chest feather pattern -->
+  <path d="M50 62 Q55 66 60 62 Q65 66 70 62" opacity="0.5"/>
+  <path d="M48 70 Q54 74 60 70 Q66 74 72 70" opacity="0.5"/>
+  <path d="M50 78 Q55 82 60 78 Q65 82 70 78" opacity="0.5"/>
+  <!-- feet -->
+  <path d="M50 96 L46 102 M50 96 L50 103 M50 96 L54 102"/>
+  <path d="M70 96 L66 102 M70 96 L70 103 M70 96 L74 102"/>
+</svg>
